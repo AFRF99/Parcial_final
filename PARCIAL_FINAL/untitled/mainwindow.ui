@@ -27,7 +27,7 @@
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap resource="imagen.qrc">:/bola1.jpg</pixmap>
+     <pixmap>:/bola1.jpg</pixmap>
     </property>
     <property name="scaledContents">
      <bool>true</bool>
@@ -46,7 +46,7 @@
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap resource="imagenes.qrc">:/bola.jpg</pixmap>
+     <pixmap>:/bola.jpg</pixmap>
     </property>
     <property name="scaledContents">
      <bool>true</bool>
@@ -65,7 +65,7 @@
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap resource="bola3.qrc">:/bola3.jpg</pixmap>
+     <pixmap>:/bola3.jpg</pixmap>
     </property>
     <property name="scaledContents">
      <bool>true</bool>
@@ -84,7 +84,7 @@
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap resource="bola2.qrc">:/bola2.jpg</pixmap>
+     <pixmap>:/bola2.jpg</pixmap>
     </property>
     <property name="scaledContents">
      <bool>true</bool>
@@ -103,7 +103,7 @@
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap resource="bola4.qrc">:/bola4.jpg</pixmap>
+     <pixmap>:/bola4.jpg</pixmap>
     </property>
     <property name="scaledContents">
      <bool>true</bool>
@@ -122,14 +122,21 @@
      <string>Inicio</string>
     </property>
    </widget>
+   <widget class="QPushButton" name="pushButton_2">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>50</y>
+      <width>93</width>
+      <height>28</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Bolas aleatorias</string>
+    </property>
+   </widget>
   </widget>
  </widget>
- <resources>
-  <include location="bola4.qrc"/>
-  <include location="bola3.qrc"/>
-  <include location="bola2.qrc"/>
-  <include location="imagen.qrc"/>
-  <include location="imagenes.qrc"/>
- </resources>
+ <resources/>
  <connections/>
 </ui>

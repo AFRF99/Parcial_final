@@ -110,8 +110,8 @@ void MainWindow::on_pushButton_clicked()
     y3=0;
     vx3=-1;
     vy3=0;
-    x4=2500;
-    y4=-2000;
+    x4=3500;
+    y4=-2500;
     vx4=0;
     vy4=1;
     x5=3000;
@@ -154,9 +154,6 @@ void MainWindow::on_pushButton_2_clicked()
     ui->Bola_2->setVisible(true);
     ui->Bola_3->setVisible(true);
     ui->Bola_4->setVisible(true);
-
-
-
 
     //ui->pushButton_2->setVisible(true);
 
