@@ -1,0 +1,11 @@
+main.o
+mainwindow.o
+menu.o
+qrc_bola2.o
+qrc_bola3.o
+qrc_bola4.o
+qrc_bola5.o
+qrc_imagen.o
+qrc_imagenes.o
+moc_mainwindow.o
+moc_menu.o

@@ -1,0 +1,369 @@
+Cuerpo 1   x: 0    y: 0    masa: 70000
+Cuerpo 2   x: 1000    y: 1000   vx: 2    vy: 1
+Cuerpo 3   x: -1000    y: -1000   vx: 0    vy: 12
+
+Cuerpo 1   x: 0    y: 0    masa: 75000
+Cuerpo 2   x: 1000    y: 1000   vx: 1    vy: 2
+
+Cuerpo 1   x: 0    y: 0    masa: 8000
+Cuerpo 2   x: 1000    y: 1000   vx: 2    vy: 0
+
+Cuerpo 1   x: 0    y: 0    masa: 9000
+Cuerpo 2   x: 1000    y: 0   vx: 2    vy: 0
+Cuerpo 3   x: 0    y: 1000   vx: 0    vy: 1
+
+Cuerpo 1   x: 0    y: 0    masa: 70000
+Cuerpo 2   x: 1000    y: 1000   vx: 2    vy: 0
+Cuerpo 3   x: 2000    y: 2000   vx: 0    vy: 1
+
+Cuerpo 1   x: 0    y: 0    masa: 70000
+Cuerpo 2   x: 1000    y: 1000   vx: 2    vy: 0
+
+Cuerpo 1   x: 0    y: 0    masa: 80000
+Cuerpo 2   x: 1000    y: 1000   vx: 2    vy: 0
+
+Cuerpo 1   x: 0    y: 0    masa: 0
+Cuerpo 2   x: 0    y: 0   vx: 0    vy: 0
+
+Cuerpo 1   x: 0    y: 0    masa: 0
+Cuerpo 2   x: 0    y: 0   vx: 0    vy: 0
+
+Cuerpo 1   x: 0    y: 0    masa: 0
+Cuerpo 2   x: 0    y: 1000   vx: 0    vy: 0
+
+Cuerpo 1   x: 0    y: 0    masa: 0
+Cuerpo 2   x: 0    y: 0   vx: 0    vy: 0
+
+Cuerpo 1   x: 0    y: 0    masa: 0
+Cuerpo 2   x: 0    y: 0   vx: 0    vy: 0
+
+Cuerpo 1   x: 1000    y: 0    masa: 0
+Cuerpo 2   x: 0    y: 1000   vx: 0    vy: 0
+
+Cuerpo 1   x: 0    y: 1000    masa: 0
+Cuerpo 2   x: 0    y: 0   vx: 0    vy: 0
+
+Cuerpo 1   x: 0    y: 0    masa: 0
+Cuerpo 2   x: 1000    y: 0   vx: 0    vy: 0
+
+Cuerpo 1   x: 0    y: 0    masa: 0
+Cuerpo 2   x: 1000    y: 0   vx: 0    vy: 0
+
+Cuerpo 1   x: 0    y: 2000    masa: 0
+Cuerpo 2   x: 1000    y: 0   vx: 0    vy: 0
+
+Cuerpo 1   x: 0    y: 0    masa: 0
+Cuerpo 2   x: 0    y: 0   vx: 0    vy: 0
+
+Cuerpo 1   x: 0    y: 0    masa: 70000
+Cuerpo 2   x: 1000    y: 0   vx: 2    vy: 0
+Cuerpo 3   x: 0    y: 1000   vx: 0    vy: 2
+Cuerpo 4   x: 500    y: 500   vx: 1    vy: 1
+
+Cuerpo 1   x: 4500    y: 4500    masa: 70000
+Cuerpo 2   x: 1000    y: 0   vx: 2    vy: 0
+Cuerpo 3   x: 0    y: 4000   vx: 0    vy: 2
+Cuerpo 4   x: 500    y: 500   vx: 1    vy: 1
+
+Cuerpo 1   x: 4500    y: 4500    masa: 70000
+Cuerpo 2   x: 2000    y: 0   vx: 2    vy: 0
+Cuerpo 3   x: 0    y: 3000   vx: 0    vy: 2
+Cuerpo 4   x: 500    y: 1000   vx: 1    vy: 1
+
+Cuerpo 1   x: 4500    y: 2500    masa: 70000
+Cuerpo 2   x: 2000    y: 0   vx: 2    vy: 0
+Cuerpo 3   x: 0    y: 3000   vx: 0    vy: 2
+Cuerpo 4   x: 500    y: 1000   vx: 1    vy: 1
+
+Cuerpo 1   x: 4500    y: 2500    masa: 700000
+Cuerpo 2   x: 2000    y: 0   vx: 2    vy: 0
+Cuerpo 3   x: 0    y: 3000   vx: 0    vy: 2
+Cuerpo 4   x: 500    y: 1000   vx: 1    vy: 1
+
+Cuerpo 1   x: 1000    y: 0    masa: 0
+Cuerpo 2   x: 0    y: 0   vx: 0    vy: 0
+
+Cuerpo 1   x: 1000    y: 0    masa: 0
+Cuerpo 2   x: 0    y: 0   vx: 0    vy: 0
+Cuerpo 3   x: 0    y: 1000   vx: 0    vy: 0
+
+Cuerpo 1   x: 1000    y: 0    masa: 0
+Cuerpo 2   x: 0    y: 1000   vx: 0    vy: 0
+Cuerpo 3   x: 0    y: 0   vx: 0    vy: 0
+
+Cuerpo 1   x: 0    y: 0    masa: 0
+Cuerpo 2   x: 1000    y: 0   vx: 0    vy: 0
+Cuerpo 3   x: 0    y: 1000   vx: 0    vy: 0
+Cuerpo 4   x: 1000    y: 1000   vx: 0    vy: 0
+
+Cuerpo 1   x: 0    y: 0    masa: 0
+Cuerpo 2   x: 100    y: 0   vx: 0    vy: 0
+Cuerpo 3   x: 0    y: 0   vx: 0    vy: 0
+Cuerpo 4   x: 0    y: 0   vx: 0    vy: 0
+
+Cuerpo 1   x: 0    y: 0    masa: 0
+Cuerpo 2   x: 1000    y: 0   vx: 0    vy: 0
+Cuerpo 3   x: 0    y: 1000   vx: 0    vy: 0
+Cuerpo 4   x: 1000    y: 1000   vx: 0    vy: 0
+
+Cuerpo 1   x: 0    y: 0    masa: 0
+Cuerpo 2   x: 1000    y: 0   vx: 0    vy: 0
+Cuerpo 3   x: 0    y: 1000   vx: 0    vy: 0
+Cuerpo 4   x: 1000    y: 1000   vx: 0    vy: 0
+Cuerpo 5   x: 2000    y: 0   vx: 0    vy: 0
+
+Cuerpo 1   x: 2000    y: 2000    masa: 75000
+Cuerpo 2   x: 1000    y: 0   vx: 2    vy: 0
+Cuerpo 3   x: 0    y: 1500   vx: 0    vy: 1
+Cuerpo 4   x: -2500    y: 3000   vx: 1.5    vy: 0
+Cuerpo 5   x: -1000    y: -2500   vx: 0    vy: -1.2
+Cuerpo 6   x: 3000    y: 1000   vx: 1    vy: 1
+
+Cuerpo 1   x: 4000    y: 2000    masa: 70000
+Cuerpo 2   x: 1000    y: 0   vx: 2    vy: 0
+Cuerpo 3   x: 0    y: 1500   vx: 0    vy: 1
+Cuerpo 4   x: -2500    y: 3000   vx: 1.5    vy: 0
+Cuerpo 5   x: -1000    y: -2500   vx: 0    vy: -1.2
+Cuerpo 6   x: 3000    y: 1000   vx: 1    vy: 1
+
+Cuerpo 1   x: 4000    y: 2000    masa: 70000
+Cuerpo 2   x: 1000    y: 0   vx: 2    vy: 0
+
+Cuerpo 1   x: 1000    y: 1000    masa: 7000
+Cuerpo 2   x: 0    y: 0   vx: 0    vy: 0
+
+Cuerpo 1   x: 1000    y: 1000    masa: 7000
+Cuerpo 2   x: 0    y: 0   vx: 4    vy: 0
+
+Cuerpo 1   x: 1000    y: 1000    masa: 7000
+Cuerpo 2   x: 0    y: 0   vx: 4    vy: 0
+
+Cuerpo 1   x: 1000    y: 1000    masa: 70000
+Cuerpo 2   x: 0    y: 0   vx: 4    vy: 0
+
+Cuerpo 1   x: 0    y: 0    masa: 70000
+Cuerpo 2   x: 0    y: -7000   vx: 2    vy: 0
+Cuerpo 3   x: 4000    y: 5000   vx: -1.6    vy: 1.2
+
+Cuerpo 1   x: 0    y: 0    masa: 70000
+Cuerpo 2   x: 0    y: -7000   vx: 2    vy: 0
+Cuerpo 3   x: 4000    y: 5000   vx: -1.6    vy: 1.2
+
+Cuerpo 1   x: 0    y: 0    masa: 70000
+Cuerpo 2   x: 0    y: -7000   vx: 2    vy: 0
+Cuerpo 3   x: 4000    y: 5000   vx: -1.6    vy: 1.2
+
+Cuerpo 1   x: 0    y: 0    masa: 70000
+Cuerpo 2   x: 0    y: -3000   vx: 2    vy: 0
+Cuerpo 3   x: 2000    y: 4000   vx: -1.6    vy: 1.2
+
+Cuerpo 1   x: 1000    y: 1000    masa: 70000
+Cuerpo 2   x: 0    y: 0   vx: 2    vy: 0
+
+Cuerpo 1   x: 1000    y: 1000    masa: 70000
+Cuerpo 2   x: 0    y: 0   vx: 2    vy: 1
+
+Cuerpo 1   x: 1000    y: 1000    masa: 70000
+Cuerpo 2   x: 0    y: 0   vx: 2    vy: 1
+
+Cuerpo 1   x: 1000    y: 1000    masa: 7000
+Cuerpo 2   x: 0    y: 0   vx: 2    vy: 1
+
+Cuerpo 1   x: 3200    y: 0    masa: 70000
+Cuerpo 2   x: 0    y: 4242   vx: 4    vy: 0
+
+Cuerpo 1   x: 0    y: 0    masa: 0
+Cuerpo 2   x: 0    y: 0   vx: 0    vy: 0
+
+Cuerpo 1   x: 5000    y: 6000    masa: 7000
+Cuerpo 2   x: 1000    y: 800   vx: 2    vy: 0
+Cuerpo 3   x: 0    y: 0   vx: 0    vy: 1
+Cuerpo 4   x: 800    y: 0   vx: 0    vy: -1
+Cuerpo 5   x: 0    y: 1000   vx: -2    vy: 0
+
+Cuerpo 1   x: 5000    y: 6000    masa: 7000
+Cuerpo 2   x: 1000    y: 800   vx: 2    vy: 0
+Cuerpo 3   x: 0    y: 0   vx: 0    vy: 1
+Cuerpo 4   x: 800    y: 0   vx: 0    vy: -1
+Cuerpo 5   x: 0    y: 1000   vx: -2    vy: 0
+
+Cuerpo 1   x: 5000    y: 6000    masa: 7000
+Cuerpo 2   x: 15000    y: 800   vx: 2    vy: 0
+Cuerpo 3   x: 0    y: 0   vx: 0    vy: 1
+Cuerpo 4   x: 800    y: 0   vx: 0    vy: -1
+Cuerpo 5   x: 0    y: 1000   vx: -2    vy: 0
+
+Cuerpo 1   x: 5000    y: 6000    masa: 7000
+Cuerpo 2   x: 15000    y: 800   vx: 2    vy: 0
+Cuerpo 3   x: 0    y: 0   vx: 0    vy: 1
+Cuerpo 4   x: 800    y: 0   vx: 0    vy: -1
+Cuerpo 5   x: 0    y: 1000   vx: -2    vy: 0
+
+Cuerpo 1   x: 5000    y: 6000    masa: 7000
+Cuerpo 2   x: 5000    y: 800   vx: 2    vy: 0
+Cuerpo 3   x: 0    y: 0   vx: 0    vy: 1
+Cuerpo 4   x: 800    y: 0   vx: 0    vy: -1
+Cuerpo 5   x: 0    y: 1000   vx: -2    vy: 0
+
+Cuerpo 1   x: 5000    y: 6000    masa: 7000
+Cuerpo 2   x: 4000    y: 800   vx: 2    vy: 0
+Cuerpo 3   x: 3000    y: 0   vx: 0    vy: 1
+Cuerpo 4   x: 800    y: 0   vx: 0    vy: -1
+Cuerpo 5   x: 0    y: 1000   vx: -2    vy: 0
+
+Cuerpo 1   x: 5000    y: 6000    masa: 7000
+Cuerpo 2   x: 4000    y: 800   vx: 2    vy: 0
+Cuerpo 3   x: 3000    y: 0   vx: 0    vy: 1
+Cuerpo 4   x: 800    y: 0   vx: 0    vy: -1
+Cuerpo 5   x: 0    y: 1000   vx: -2    vy: 0
+
+Cuerpo 1   x: 0    y: 0    masa: 50000
+Cuerpo 2   x: -5000    y: 0   vx: 2    vy: -2
+Cuerpo 3   x: 5000    y: 0   vx: 0    vy: 2
+Cuerpo 4   x: 0    y: -5000   vx: 2    vy: 0
+Cuerpo 5   x: 0    y: 5000   vx: -2    vy: 0
+
+Cuerpo 1   x: 0    y: 0    masa: 50000
+Cuerpo 2   x: -5000    y: 5000   vx: 2    vy: -2
+Cuerpo 3   x: 5000    y: 0   vx: 0    vy: 2
+Cuerpo 4   x: 0    y: -5000   vx: 2    vy: 0
+Cuerpo 5   x: 0    y: 5000   vx: -2    vy: 0
+
+Cuerpo 1   x: 10000    y: 10000    masa: 50000
+Cuerpo 2   x: -5000    y: 5000   vx: 2    vy: -2
+Cuerpo 3   x: 5000    y: 0   vx: 0    vy: 2
+Cuerpo 4   x: 0    y: -5000   vx: 2    vy: 0
+Cuerpo 5   x: 0    y: 5000   vx: -2    vy: 0
+
+Cuerpo 1   x: 8000    y: 8000    masa: 50000
+Cuerpo 2   x: -5000    y: 5000   vx: 2    vy: -2
+Cuerpo 3   x: 5000    y: 0   vx: 0    vy: 2
+Cuerpo 4   x: 0    y: -5000   vx: 2    vy: 0
+Cuerpo 5   x: 0    y: 5000   vx: -2    vy: 0
+
+Cuerpo 1   x: 5000    y: 5000    masa: 50000
+Cuerpo 2   x: -5000    y: 0   vx: 2    vy: -2
+Cuerpo 3   x: 5000    y: 0   vx: 0    vy: 2
+Cuerpo 4   x: 0    y: -5000   vx: 2    vy: 0
+Cuerpo 5   x: 0    y: 5000   vx: -2    vy: 0
+
+Cuerpo 1   x: 5000    y: 5000    masa: 50000
+Cuerpo 2   x: -5000    y: 0   vx: 2    vy: -2
+Cuerpo 3   x: 5000    y: 0   vx: 0    vy: 2
+Cuerpo 4   x: 0    y: -5000   vx: 2    vy: 0
+Cuerpo 5   x: 0    y: 5000   vx: -2    vy: 0
+
+Cuerpo 1   x: 5000    y: 5000    masa: 70000
+Cuerpo 2   x: -5000    y: 0   vx: 2    vy: -2
+Cuerpo 3   x: 5000    y: 0   vx: 0    vy: 2
+Cuerpo 4   x: 0    y: -5000   vx: 2    vy: 0
+Cuerpo 5   x: 0    y: 5000   vx: -2    vy: 0
+
+Cuerpo 1   x: 4000    y: 4000    masa: 70000
+Cuerpo 2   x: -5000    y: 0   vx: 2    vy: -2
+Cuerpo 3   x: 5000    y: 0   vx: 0    vy: 2
+Cuerpo 4   x: 0    y: -5000   vx: 2    vy: 0
+Cuerpo 5   x: 0    y: 5000   vx: -2    vy: 0
+
+Cuerpo 1   x: 3000    y: 3000    masa: 70000
+Cuerpo 2   x: -5000    y: 0   vx: 2    vy: -2
+Cuerpo 3   x: 5000    y: 0   vx: 0    vy: 2
+Cuerpo 4   x: 0    y: -5000   vx: 2    vy: 0
+Cuerpo 5   x: 0    y: 5000   vx: -2    vy: 0
+
+Cuerpo 1   x: 3000    y: 3000    masa: 70000
+Cuerpo 2   x: -5000    y: 0   vx: 2    vy: -2
+Cuerpo 3   x: 5000    y: 0   vx: 0    vy: 2
+Cuerpo 4   x: 0    y: -5000   vx: 2    vy: 0
+Cuerpo 5   x: 0    y: 5000   vx: -2    vy: 0
+
+Cuerpo 1   x: 3000    y: 3000    masa: 70000
+Cuerpo 2   x: 3000    y: 0   vx: 2    vy: -2
+Cuerpo 3   x: 0    y: 4000   vx: 0    vy: 2
+Cuerpo 4   x: 0    y: -5000   vx: 2    vy: 0
+Cuerpo 5   x: 0    y: 5000   vx: -2    vy: 0
+
+Cuerpo 1   x: 3000    y: 3000    masa: 70000
+Cuerpo 2   x: 3000    y: 0   vx: 2    vy: -2
+Cuerpo 3   x: 0    y: 4000   vx: 0    vy: 2
+Cuerpo 4   x: 0    y: -5000   vx: 2    vy: 0
+Cuerpo 5   x: 0    y: 5000   vx: -2    vy: 0
+
+Cuerpo 1   x: 3000    y: 3000    masa: 70000
+Cuerpo 2   x: 3000    y: 0   vx: 2    vy: -2
+Cuerpo 3   x: 0    y: 4000   vx: 0    vy: 2
+Cuerpo 4   x: 0    y: -5000   vx: 1    vy: 0
+Cuerpo 5   x: 0    y: 5000   vx: -1    vy: 0
+
+Cuerpo 1   x: 2000    y: 2000    masa: 70000
+Cuerpo 2   x: 3000    y: 0   vx: 2    vy: -2
+Cuerpo 3   x: 0    y: 4000   vx: 0    vy: 2
+Cuerpo 4   x: 0    y: -5000   vx: 1    vy: 0
+Cuerpo 5   x: 0    y: 5000   vx: -1    vy: 0
+
+Cuerpo 1   x: 2000    y: 2000    masa: 70000
+Cuerpo 2   x: 5000    y: 0   vx: 2    vy: -2
+Cuerpo 3   x: 0    y: 4000   vx: 0    vy: 2
+Cuerpo 4   x: 0    y: -5000   vx: 1    vy: 0
+Cuerpo 5   x: 0    y: 5000   vx: -1    vy: 0
+
+Cuerpo 1   x: 2000    y: 2000    masa: 70000
+Cuerpo 2   x: 5000    y: 0   vx: 2    vy: -2
+Cuerpo 3   x: 0    y: 4000   vx: 0    vy: 2
+Cuerpo 4   x: 0    y: -5000   vx: 1    vy: 0
+Cuerpo 5   x: 0    y: 5000   vx: -1    vy: 0
+
+Cuerpo 1   x: 2000    y: 2000    masa: 70000
+Cuerpo 2   x: 5000    y: 0   vx: 2    vy: -2
+Cuerpo 3   x: 0    y: 4000   vx: 0    vy: 2
+Cuerpo 4   x: 0    y: -4000   vx: 1    vy: 0
+Cuerpo 5   x: 0    y: 5000   vx: -1    vy: 0
+
+Cuerpo 1   x: 2000    y: 2000    masa: 70000
+Cuerpo 2   x: 5000    y: 0   vx: 1    vy: -1
+Cuerpo 3   x: 0    y: 4000   vx: 0    vy: 1
+Cuerpo 4   x: 0    y: -4000   vx: 1    vy: 0
+Cuerpo 5   x: 0    y: 5000   vx: -1    vy: 0
+
+Cuerpo 1   x: 2000    y: 2000    masa: 70000
+Cuerpo 2   x: 5000    y: 0   vx: 1    vy: -1
+Cuerpo 3   x: 0    y: 1000   vx: 0    vy: 1
+Cuerpo 4   x: 0    y: -2000   vx: 1    vy: 0
+Cuerpo 5   x: 0    y: 5000   vx: -1    vy: 0
+
+Cuerpo 1   x: 2000    y: 2000    masa: 80000
+Cuerpo 2   x: 5000    y: 0   vx: 1    vy: -1
+Cuerpo 3   x: 0    y: 1000   vx: 0    vy: 1
+Cuerpo 4   x: 0    y: -2000   vx: 1    vy: 0
+Cuerpo 5   x: 0    y: 5000   vx: -1    vy: 0
+
+Cuerpo 1   x: 2000    y: 2000    masa: 50000
+Cuerpo 2   x: 5000    y: 0   vx: 1    vy: -1
+Cuerpo 3   x: 0    y: 1000   vx: 0    vy: 1
+Cuerpo 4   x: 0    y: -2000   vx: 1    vy: 0
+Cuerpo 5   x: 0    y: 5000   vx: -1    vy: 0
+
+Cuerpo 1   x: 2000    y: 2000    masa: 60000
+Cuerpo 2   x: 5000    y: 0   vx: 1    vy: -1
+Cuerpo 3   x: 0    y: 1000   vx: 0    vy: 1
+Cuerpo 4   x: 0    y: -2000   vx: 1    vy: 0
+Cuerpo 5   x: 0    y: 5000   vx: -1    vy: 0
+
+Cuerpo 1   x: 2000    y: 2000    masa: 60000
+Cuerpo 2   x: 5000    y: 0   vx: 1    vy: -1
+Cuerpo 3   x: 0    y: 1000   vx: 0    vy: 1
+Cuerpo 4   x: 0    y: -2000   vx: 1    vy: 0
+Cuerpo 5   x: 0    y: 5000   vx: -1    vy: 0
+
+Cuerpo 1   x: 4000    y: 1000    masa: 7000
+Cuerpo 2   x: 1000    y: 0   vx: 1    vy: 0
+Cuerpo 3   x: 0    y: 2000   vx: 0    vy: 1
+Cuerpo 4   x: 3000    y: 0   vx: 0    vy: -2
+Cuerpo 5   x: 0    y: 15000   vx: 2    vy: 0
+
+Cuerpo 1   x: 4000    y: 1000    masa: 7000
+Cuerpo 2   x: 1000    y: 0   vx: 1    vy: 0
+Cuerpo 3   x: 0    y: 2000   vx: 0    vy: 1
+Cuerpo 4   x: 3000    y: 0   vx: 0    vy: -2
+Cuerpo 5   x: 0    y: 15000   vx: 2    vy: 0
+
